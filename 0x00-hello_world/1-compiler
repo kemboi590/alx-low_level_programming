@@ -1,0 +1,2 @@
+#!/bin/bang
+gcc -c $CFILE -o 1-compiler.o
