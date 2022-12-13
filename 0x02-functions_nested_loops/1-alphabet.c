@@ -1,10 +1,9 @@
 #include "main.h"
-
 /**
-  *print_alphabet - function that prints alphabet lettes in lower case
-  *Return: always 0
-**/
-
+ * print_alphabet - a function that prints the alphabet, in lowercase
+ *
+ * Return: Always 0 (Succes)
+ */
 void print_alphabet(void)
 {
 	int n;
