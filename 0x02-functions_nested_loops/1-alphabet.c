@@ -1,17 +1,19 @@
 #include "main.h"
 
 /**
-  *print_alphabet - function that prints alphabet lettes in lower case
-  *Return: always 0
-**/
+ * print_alphabet - entry point
+ * Return: 0
+ */
 
 void print_alphabet(void)
 {
-	int n;
+	char c = 'a';
 
-	for (n = 'a'; n <= 'z'; n++)
+	while (c <= 'z')
 	{
-		_putchar(n);
+		_putchar(c);
+		c++;
+
 	}
 	_putchar('\n');
 }
