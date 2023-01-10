@@ -1,0 +1,2 @@
+ls *.a
+liball.a
