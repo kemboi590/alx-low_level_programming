@@ -1,2 +1,1 @@
-ls *.a
-liball.a
+
